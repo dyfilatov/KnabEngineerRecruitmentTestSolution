@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnabEngineerRecruitmentTestWebApi", "KnabEngineerRecruitmentTestWebApi\KnabEngineerRecruitmentTestWebApi.csproj", "{D9B599F2-0291-42E1-B503-5351991A652D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnabEngineerRecruitmentTestInfrastructure", "KnabEngineerRecruitmentTestInfrastructure\KnabEngineerRecruitmentTestInfrastructure.csproj", "{C26E05C2-8881-4721-872A-59B65DE2F3CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnabEngineerRecruitmentTestTests", "KnabEngineerRecruitmentTestTests\KnabEngineerRecruitmentTestTests.csproj", "{A9CEA411-6911-46D5-9F3D-BC319266E99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B599F2-0291-42E1-B503-5351991A652D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B599F2-0291-42E1-B503-5351991A652D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B599F2-0291-42E1-B503-5351991A652D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B599F2-0291-42E1-B503-5351991A652D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26E05C2-8881-4721-872A-59B65DE2F3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26E05C2-8881-4721-872A-59B65DE2F3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26E05C2-8881-4721-872A-59B65DE2F3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26E05C2-8881-4721-872A-59B65DE2F3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CEA411-6911-46D5-9F3D-BC319266E99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CEA411-6911-46D5-9F3D-BC319266E99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CEA411-6911-46D5-9F3D-BC319266E99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CEA411-6911-46D5-9F3D-BC319266E99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
